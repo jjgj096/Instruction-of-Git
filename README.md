@@ -356,19 +356,19 @@
 
 명령어 | 사용 여부 | 링크
 -------|----------|--------
-init   |     O    |         
-config |     O    |         
-clone  |     O    |        
-add    |     O    |       
-commit |     O    |     
-push   |     O    |
-remote |     O    |
-status |     O    |
-reset  |     O    |
-checkout|    O    |
-pull   |     O    |
-log    |     O    | 
-branch |     O    |
-merge  |     O    |
-rebase |     O    |
-tag    |     O    |
+init   |     O    |[init](#init-명령어)    
+config |     O    |[config](#config-명령어)         
+clone  |     O    |[clone](#clone-명령어)        
+add    |     O    | [add](#add-명령어)      
+commit |     O    |[commit](#commit-명령어)     
+push   |     O    |[push](#push-명령어)
+remote |     O    |[remote](#remote-명령어)
+status |     O    |[status](#status-명령어)
+reset  |     O    |[reset](#reset-명령어)
+checkout|    O    |[checkout](#checkout-명령어)
+pull   |     O    |[pull](#pull-명령어)
+log    |     O    |[log](#log-명령어) 
+branch |     O    |[branch](#branch-명령어)
+merge  |     O    |[merge](#merge-명령어)
+rebase |     O    |[rebase](#rebase-명령어)
+tag    |     O    |[tag](#tag-명령어)
