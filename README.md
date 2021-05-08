@@ -21,22 +21,22 @@
  
  이 파일은 오늘 진행할 가상 프로젝트를 수행하면서 쓰이는 중요한 **Git** **명령어**입니다.
  
- * [init 명령어](init-명령어)
- * config
- * clone
- * add
- * commit
- * push
- * remote
- * status
- * reset
- * checkout
- * pull
- * log
- * branch
- * merge
- * rebase 
- * tag
+ * [init](#init-명령어)
+ * [config](#config-명령어)
+ * [clone](#clone-명령어)
+ * [add](#add-명령어)
+ * [commit](#commit-명령어)
+ * [push](#push-명령어)
+ * [remote](#remote-명령어)
+ * [status](#status-명령어)
+ * [reset](#reset-명령어)
+ * [checkout](#checkout-명령어)
+ * [pull](#pull-명령어)
+ * [log](#log-명령어)
+ * [branch](#branch-명령어)
+ * [merge](#merge-명령어)
+ * [rebase](#rebase-명령어)
+ * [tag](#tag-명령어)
 
 
 ## 3) 프로젝트 주제
