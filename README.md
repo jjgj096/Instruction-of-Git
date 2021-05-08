@@ -21,7 +21,7 @@
  
  이 파일은 오늘 진행할 가상 프로젝트를 수행하면서 쓰이는 중요한 **Git** **명령어**입니다.
  
- * [init](http://www.github.com/)
+ * [init](init-명령어)
  * config
  * clone
  * add
@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/81611401/117520852-67df6f80-afe5-11eb-8105-671d1986a602.png)
 
 
-* ## init 명령어 
+* ## init-명령어 
 >$ git init
 
 1. 관리하고 싶은 폴더를 만든 상태. (로컬 디스크 :C에 YJH 생성.)
@@ -371,6 +371,4 @@ log    |     O    |
 branch |     O    |
 merge  |     O    |
 rebase |     O    |
-
-
-tag
+tag    |     O    |
